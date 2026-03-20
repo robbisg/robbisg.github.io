@@ -17,8 +17,8 @@ My main expertise is in *Machine Learning* and *Multivariate Modeling* for *fMRI
 
 ### Teaching
 I am lecturer for two courses:
-- :computer: [Artificial Intelligence and Machine Learning](lm55-aiml/index.md)
-- :brain: [Computational models for brain and cognition](lm55-compneuro/index.md)
+- :computer: [Artificial Intelligence and Machine Learning](docs/teaching/lm55-aiml/index.md)
+- :brain: [Computational models for brain and cognition](docs/teaching/lm55-compneuro/index.md)
 
 
 
