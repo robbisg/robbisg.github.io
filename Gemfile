@@ -34,6 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-theme-console"
-
+gem "jekyll-remote-theme"
 gem "just-the-docs"
 gem "jemoji"
