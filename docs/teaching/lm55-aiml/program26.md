@@ -51,4 +51,5 @@ nav_exclude: true
 | 10. 💻 Python algebra + numpy + data visualization | [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) | | |
 | 31. 💻 pytorch | [notebook](https://colab.research.google.com/drive/1zDbNZsw4G62Wu2NJMxiLc-nAQ4-Ks8Et?usp=sharing) | | |
 | 32. Dataviz | [slides](https://docs.google.com/presentation/d/1cXSDT8EhCKpz8Et02oYYsusmamiajXXkYFueIL0hccE/edit?usp=sharing) | | |
-| 32. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | 12. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII |  |
+| 32. Machine Learning and Neuroscience | [slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | |
+| 12. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII |  |
