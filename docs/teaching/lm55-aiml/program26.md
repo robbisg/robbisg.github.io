@@ -16,10 +16,9 @@ nav_exclude: true
 | 7. Machine Learning basics | [slides](https://docs.google.com/presentation/d/1LBIeythXsugOGL1Yf6qS6fJpyQyS3oQxjpBnTTB59zg/edit?usp=sharing) | Chap. 5 DL book | 16.03.2026 |
 | 8. 💻 Introduction to Python | see [material](material.md) + [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing)| | 17.03.2026 |
 | 9. Unsupervised Learning + k-Means | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book | 18.03.2026 |
-| 10. Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book |  |
-| 10. MLE + 💻 project | see [material](material.md) + [slides](https://docs.google.com/presentation/d/1LBIeythXsugOGL1Yf6qS6fJpyQyS3oQxjpBnTTB59zg/edit?usp=sharing) |  |  |
-| 11. PCA / ICA | [slides](https://docs.google.com/presentation/d/1efDXngdFPLDUfC69-xhiR1qPAQICXfPc1dHVMTZAYq4/edit?usp=sharing) | Chap. 14 ESLII + Chap 12 PRML |  |
-| 12. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII |  |
+| 10. Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book | 23.03.2026 |
+| 11. PCA / ICA | [slides](https://docs.google.com/presentation/d/1efDXngdFPLDUfC69-xhiR1qPAQICXfPc1dHVMTZAYq4/edit?usp=sharing) | Chap. 14 ESLII + Chap 12 PRML | 24.05.2026 |
+| 12. 💻 Intro to python pt. II | see [material](material.md) + [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) |  |  |
 | 13. 💻 scikit-learn clustering | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | |  |
 | 14. Clustering evaluation | [slides](https://docs.google.com/presentation/d/1e5pvwqXGtElzGlyIzzGLTi_f1RBRcYBvTrZeAO2ZkzE/edit?usp=sharing) | Chap 14 ESLII |  |
 | 15. Supervised Learning + Linear Regression  pt. 1| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML | |
@@ -48,8 +47,8 @@ nav_exclude: true
 ## Bonus track
 | Title | Link | References | Day |
 | ------------------ | ------------- | ---------------- | --------------- |
-| 12. Gaussian Mixture Models + EM + HMM | [slides](https://docs.google.com/presentation/d/1Jn7ZWNBs9dzcEbjhaiSoHlIBKrGEQcobj2tlozjqLE4/edit?usp=sharing) | Chap. 13 + 9 PRML| 
+| 12. Gaussian Mixture Models + EM + HMM | [slides](https://docs.google.com/presentation/d/1Jn7ZWNBs9dzcEbjhaiSoHlIBKrGEQcobj2tlozjqLE4/edit?usp=sharing) | Chap. 13 + 9 PRML| |
 | 10. 💻 Python algebra + numpy + data visualization | [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) | | |
 | 31. 💻 pytorch | [notebook](https://colab.research.google.com/drive/1zDbNZsw4G62Wu2NJMxiLc-nAQ4-Ks8Et?usp=sharing) | | |
 | 32. Dataviz | [slides](https://docs.google.com/presentation/d/1cXSDT8EhCKpz8Et02oYYsusmamiajXXkYFueIL0hccE/edit?usp=sharing) | | |
-| 32. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | |
+| 32. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | 12. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII |  |
