@@ -29,9 +29,9 @@ nav_exclude: true
 | 18. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII | 27.04.2026 |
 | 19. Linear classification + kNN + LDA (pt. 2) | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII | 28.04.2026 |
 | 20. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII | 29.04.2026 |
-| 19. SVM + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML |  |
-| 21. Preprocessing + Feature selection + Testing| [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | |  |
-| 22. Feature interpretation + recap | [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | |  |
+| 19. SVM + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML | 04.05.2026 |
+| 21. Preprocessing + Feature selection + Testing| [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | | 05.05.2026 |
+| 22. Feature interpretation + recap | [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | | 06.05.2026 |
 | 23. 💻 scikit-learn classification + project  | [notebook](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | |  |
 | 24. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | |
 | 25. Neural Networks Optimization | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | |
