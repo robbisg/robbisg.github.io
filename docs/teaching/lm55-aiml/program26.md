@@ -43,6 +43,9 @@ nav_exclude: true
 | 31. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | |  |
 | 32. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing) [solution](https://colab.research.google.com/drive/10AGsRNZ6xF2uoChMUHuk4BwHZVv7vRyT?usp=sharing)| Chap 3 Izhikievich |  |
 
+## Datasets for the project
+1) EEG features to predict psychiatric disorders [dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset) [paper](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.707581/full)
+2) Bilingualism and the brain [dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset) [paper](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset). 
 
 
 ## Bonus track
