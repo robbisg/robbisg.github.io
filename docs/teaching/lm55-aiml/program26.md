@@ -45,7 +45,8 @@ nav_exclude: true
 
 ## Datasets for the project
 1) EEG features to predict psychiatric disorders [dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset) [paper](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.707581/full)
-2) Bilingualism and the brain [dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset) [paper](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset). 
+   
+3) Bilingualism and the brain [dataset](https://openneuro.org/datasets/ds001796/versions/1.7.0) [paper](https://www.pnas.org/doi/abs/10.1073/pnas.1811513116). 
 
 
 ## Bonus track
