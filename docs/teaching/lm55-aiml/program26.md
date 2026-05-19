@@ -34,14 +34,14 @@ nav_exclude: true
 | 24. Feature interpretation + recap | [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | | 06.05.2026 |
 | 25. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | 12.05.2026 |
 | 26. Neural Networks Optimization | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | 13.05.2026 |
-| 27. 💻 Classification + Neural Networks  | [notebook-classification](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) [notebook-nn](https://drive.google.com/file/d/1YpKxQO5WAGQPwElYgeeFZzxEeuLWyrSj/view?usp=sharing)| | 18.05.2026 |
-| 28. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL |  | 
-| 29. RNN | [slides](https://docs.google.com/presentation/d/1jtUJoeuEt-MKynI4qXeNRkInnonHusus07Wz0N3NH2s/edit?usp=sharing) | Chap 10 DL, 12.4 DL |  |
-| 30. Autoencoder + GAN | [slides](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | |  |
-| 31. Large Language Models | [slides](https://docs.google.com/presentation/d/1ra4UGCQJZ9P497G4Qq1Fn12wTSNUKpOMA6ECbhkRkOo/edit?usp=sharing) | |  |
-| 32. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | |
-| 33. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | |  |
-| 34. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing) [solution](https://colab.research.google.com/drive/10AGsRNZ6xF2uoChMUHuk4BwHZVv7vRyT?usp=sharing)| Chap 3 Izhikievich |  |
+| 27. 💻 Classification + Neural Networks  | [notebook-classification](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | 18.05.2026 |
+| 28. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL | 19.05.2026 | 
+| 29. RNN + Autoencoder + GAN| [slides RNN](https://docs.google.com/presentation/d/1jtUJoeuEt-MKynI4qXeNRkInnonHusus07Wz0N3NH2s/edit?usp=sharing) [slides-ae](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | Chap 10 DL, 12.4 DL | 20.05.2026 |
+| 30. 💻 Neural network intro | [notebook-nn](https://drive.google.com/file/d/1YpKxQO5WAGQPwElYgeeFZzxEeuLWyrSj/view?usp=sharing) |  | 22.05.2026 |
+| 31. Large Language Models | [slides](https://docs.google.com/presentation/d/1ra4UGCQJZ9P497G4Qq1Fn12wTSNUKpOMA6ECbhkRkOo/edit?usp=sharing) | | 25.05.2026 |
+| 32. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | 26.05.2026 |
+| 33. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | | |
+| 34. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing) [solution](https://colab.research.google.com/drive/10AGsRNZ6xF2uoChMUHuk4BwHZVv7vRyT?usp=sharing)|  |  |
 
 ## Datasets for the project
 1) EEG features to predict psychiatric disorders [dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset) [paper](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.707581/full)
@@ -58,4 +58,5 @@ nav_exclude: true
 | 31. 💻 pytorch | [notebook](https://colab.research.google.com/drive/1zDbNZsw4G62Wu2NJMxiLc-nAQ4-Ks8Et?usp=sharing) | | |
 | 32. Dataviz | [slides](https://docs.google.com/presentation/d/1cXSDT8EhCKpz8Et02oYYsusmamiajXXkYFueIL0hccE/edit?usp=sharing) | | |
 | 32. Machine Learning and Neuroscience | [slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | |
+| 30. Autoencoder + GAN | [slides](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | |  |
 | 12. 💻 Intro to python pt. II | see [material](material.md) + [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) |  |  |
